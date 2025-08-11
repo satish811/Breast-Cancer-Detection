@@ -264,13 +264,12 @@ It serves as a strong foundation for **medical AI research** and is suitable for
 
 ## 📬 Contact & License
 
-**Author**: Your Name  
-**Institution**: [Your University Name] – B.Tech in [CS/AI/DS]  
-**Email**: your.email@example.com  
-**GitHub**: [@yourusername](https://github.com/yourusername)
+**Author**: satish varma 
+**Institution**: Srkr Engineering College – B.Tech in CSBS  
+**Email**: satishvarmaoleti09@.com  
+**GitHub**: @satish811  https://github.com/satish811
 
-### 📄 License
-MIT License – see [LICENSE](LICENSE) for details.
+
 
 ---
 
@@ -279,15 +278,5 @@ MIT License – see [LICENSE](LICENSE) for details.
 
 ---
 
-✅ **Instructions**:
-1. Save this as `README.md` in your project root.
-2. Ensure your images (`misclassified_samples.png`, etc.) are in the correct folder.
-3. Update placeholders like `yourusername`, `Your Name`, and university.
-4. Push to GitHub.
 
-Let me know if you want:
-- A `requirements.txt`
-- A `LICENSE` file
-- Help formatting `train.py` or `main2.py`
-
-Best of luck with your final year project! 🎓🚀
+Best of luck  🎓🚀
