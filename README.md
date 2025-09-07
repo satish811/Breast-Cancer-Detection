@@ -27,7 +27,7 @@ Key Features:
 ### 🔗 [BreakHis Breast Cancer Histopathological Dataset](https://www.kaggle.com/datasets/waseemalastal/breakhis-breast-cancer-histopathological-dataset)
 
 - **Type**: Binary Classification (Benign vs. Malignant)
-- **Magnification**: 400X (224×224 RGB images)
+- **Magnification**: 40X,100X,200X,400X (224×224 RGB images)
 - **Source**: W. Al-Dhabyani et al., 2019
 - **Data Split**: 80% Training, 20% Validation
 - **Class Balancing**: Automatic class weights to handle imbalance
