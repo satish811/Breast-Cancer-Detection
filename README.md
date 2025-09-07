@@ -90,14 +90,15 @@ Key Features:
 ---
 
 ## 📈 Results & Visualizations
+![Output Image: uploading an image](https://github.com/user-attachments/assets/51c63409-373f-412e-b72e-b01c3e9c8389)
 
-### 🔍 Misclassified Samples
-![Misclassified Samples](misclassified_samples.png)
 
-> Examples of ambiguous cases where model predictions were incorrect.
+![Output Image: Malignant](https://github.com/user-attachments/assets/a39a6a0a-009f-44e0-bc5b-52bee4fce81c)
+
+
+![Output Image: Benign](https://github.com/user-attachments/assets/6c095464-c2d4-420d-9fb1-9993fb748dfa)
 
 ---
-
 ### 📊 Probability Distribution
 ![Probability Distribution](probability_distribution.png)
 
