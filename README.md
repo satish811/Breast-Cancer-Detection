@@ -89,13 +89,15 @@ Key Features:
 
 ---
 
-## 📈 Results & Visualizations
+### 📈 Results & Visualizations
+
+## Output Image: uploading an image
 ![Output Image: uploading an image](https://github.com/user-attachments/assets/51c63409-373f-412e-b72e-b01c3e9c8389)
 
-
+## Output Image: Malignant
 ![Output Image: Malignant](https://github.com/user-attachments/assets/a39a6a0a-009f-44e0-bc5b-52bee4fce81c)
 
-
+## Output Image: Benign
 ![Output Image: Benign](https://github.com/user-attachments/assets/6c095464-c2d4-420d-9fb1-9993fb748dfa)
 
 ---
